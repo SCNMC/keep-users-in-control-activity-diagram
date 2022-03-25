@@ -8,6 +8,8 @@
 
 ## Activity Diagram
 <!-- Toon de activity Diagram -->
+![tempImageKTsemk](https://user-images.githubusercontent.com/90189750/160112689-b6d73ef5-40eb-4432-a547-b314435e664f.gif)
+
 
 ## Uitleg pseudo-code 
 <!-- Leg de pseudo-code in de control fow uit -->
