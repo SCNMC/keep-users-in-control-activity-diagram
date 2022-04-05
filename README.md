@@ -16,7 +16,7 @@ Ik wil als developer een duidelijke activity diagram maken zodat ik goed beeld h
 ## Uitleg pseudo-code 
 <!-- Leg de pseudo-code in de control fow uit -->
 
-Mijn activitiy diagram begint bij detail.js. Wanneer er geen javascript is zie je hier de empty state. Vervolgens word de getData aangeroepen. Hierna roep ik de loading state aan waarbij ik vervolgens een fetch doe. Als de fetch niet lukt komt de error state te zien. Mocht de fetch succesvol zijn dan kom je bij de ideal state.
+Mijn activitiy diagram begint bij detail.js. Wanneer er geen javascript is zie je hier de empty state. Vervolgens word de getData aangeroepen. Hierna roep ik de loading state aan waarbij ik vervolgens een fetch doe. Als de fetch niet lukt komt de error state er te staan. Mocht de fetch wek succesvol zijn dan kom je de ideal state te zien.
 
 
 ## Licentie
